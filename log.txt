@@ -1,0 +1,633 @@
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">バックル</td>
+<td width="299">
+僅かな小傷
+が見受けられます
+</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">風防</td>
+<td width="299">目立つダメージはございません</td>
+</tr></tbody></table>
+</dl>
+</dd>
+</dl>, <dl>
+中古
+　ランク
+A
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="299">
+小傷
+が見受けられます
+</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ベゼル</td>
+<td width="299">目立つダメージはございません</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ベルト</td>
+<td width="299">
+僅かな小傷
+が見受けられます
+</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">バックル</td>
+<td width="299">
+僅かな小傷
+が見受けられます
+</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">風防</td>
+<td width="299">目立つダメージはございません</td>
+</tr></tbody></table>
+</dl>, <dl>
+<dt>サイズ</dt>
+<dd>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約40mm　横/約40mm<br/>厚み/約12mm</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+20mm
+</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約19.5cm</td>
+</tr></tbody></table>
+</dl>
+</dd>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約40mm　横/約40mm<br/>厚み/約12mm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+20mm
+</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約19.5cm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<dt>機能</dt>
+<dd>
+防水(100ｍ)　クロマライト夜光　デイト表示　3タイム表示　回転ベゼル</dd>
+</dl>, <dl>
+<dt>付属品</dt>
+<dd>
+メーカー保証書(2023年4月購入)
+　
+メーカー箱　冊子
+</dd>
+</dl>, <dl>
+<dt>時計の当社保証</dt>
+<dd>
+ウォッチニアン会員 3年<br/>ウォッチニアン非会員 2年
+<br/>無料会員登録で時計の保証が延長！<br/>保証の詳細は<a href="https://watchnian.com/shop/pages/warranty.aspx" target="_blank">ご利用ガイド</a>をご覧ください。
+</dd>
+</dl>, <dl>
+<dt><a href="https://watchnian.com/shop/store/o026004/">WATCHNIAN (ウォッチニアン) 心斎橋店</a></dt>
+<dd>TEL：06-6786-8596</dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>ローン申し込み<br class="isSp"/>金額（税込）</dt>
+<dd class="goods_simulation_price">
+<input class="js_loancalc_price" id="shoppingloan-price" name="shoppingloan-price" type="text" value=" ￥3,215,300"/>円
+                                </dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>お支払い回数</dt>
+<dd class="goods_simulation_times">
+<select class="js_loancalc_times" id="shoppingloan-pay-num" name="shoppingloan-pay-num"><option value="1">1回</option><option value="2">2回</option><option value="3">3回</option><option value="6">6回</option><option value="10">10回</option><option value="12">12回</option><option value="15">15回</option><option value="18">18回</option><option value="20">20回</option><option value="24">24回</option><option value="30">30回</option><option value="36">36回</option><option value="42">42回</option><option value="48">48回</option><option value="54">54回</option><option value="60">60回</option><option value="66">66回</option><option value="72">72回</option><option value="78">78回</option><option value="84">84回</option></select>
+<button class="goods_simulation_calc js_loancalc_submit isPc" id="shoppingloan-calculation" type="button">計算</button>
+</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>金利：</dt>
+<dd><span class="js_loancalc_rate" id="shoppingloan-rate">0</span>％</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>初回のお支払いの目安：</dt>
+<dd><span class="js_loancalc_first" id="shoppingloan-first">3,215,300</span>円</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>月々のお支払いの目安：</dt>
+<dd><span class="js_loancalc_monthly" id="shoppingloan-month">0</span>円</dd>
+</dl>]
+-------------------
+/shop/g/gik-00-0553124/
+<dd>￥1,426,700 (税込) *2023/09/05調査
+</dd>
+定価
+map関数
+[<dl>
+<dt>管理番号</dt>
+<dd>
+553124
+</dd>
+</dl>, <dl>
+<dt>ジャンル</dt>
+<dd>
+腕時計
+ /
+メンズ
+</dd>
+</dl>, <dl>
+<dt>ブランド</dt>
+<dd>
+ロレックス /
+ROLEX
+</dd>
+</dl>, <dl>
+<dt>モデル</dt>
+<dd>
+GMTマスターII
+</dd>
+</dl>, <dl>
+<dt>型番（型式番号）</dt>
+<dd>
+126710BLRO</dd>
+</dl>, <dl>
+<dt>定価</dt>
+<dd>￥1,426,700 (税込) *2023/09/05調査
+</dd>
+</dl>, <dl>
+<dt>シリアル</dt>
+<dd>
+ランダムシリアル
+</dd>
+</dl>, <dl>
+<dt>ムーブメント</dt>
+<dd>
+自動巻き /Cal.3285</dd>
+</dl>, <dl>
+<dt>文字盤</dt>
+<dd>
+ブラック</dd>
+</dl>, <dl>
+<dt>ケース</dt>
+<dd>
+ステンレス</dd>
+</dl>, <dl>
+<dt>風防</dt>
+<dd>
+サファイアクリスタル風防
+</dd>
+</dl>, <dl>
+<dt>ベゼル</dt>
+<dd>
+ステンレス /セラミック /ブルー /レッド</dd>
+</dl>, <dl>
+<dt>ブレスレット</dt>
+<dd>
+オイスターブレス（ステンレス）
+</dd>
+</dl>, <dl>
+<dt>状態</dt>
+<dd>
+<dl>
+新品
+　ランク
+N
+</dl>
+</dd>
+</dl>, <dl>
+新品
+　ランク
+N
+</dl>, <dl>
+<dt>サイズ</dt>
+<dd>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約40mm　横/約40mm<br/>厚み/約12mm</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+20mm
+</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約19cm</td>
+</tr></tbody></table>
+</dl>
+</dd>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約40mm　横/約40mm<br/>厚み/約12mm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+20mm
+</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約19cm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<dt>機能</dt>
+<dd>
+防水(100ｍ)　クロマライト夜光　デイト表示　3タイム表示　回転ベゼル</dd>
+</dl>, <dl>
+<dt>付属品</dt>
+<dd>
+メーカー保証書(2024年2月購入)
+　
+メーカー箱　冊子　タグ
+</dd>
+</dl>, <dl>
+<dt>時計の当社保証</dt>
+<dd>
+ウォッチニアン会員 5年<br/>ウォッチニアン非会員 3年
+<br/>無料会員登録で時計の保証が延長！<br/>保証の詳細は<a href="https://watchnian.com/shop/pages/warranty.aspx" target="_blank">ご利用ガイド</a>をご覧ください。
+</dd>
+</dl>, <dl>
+<dt><a href="https://watchnian.com/shop/store/o026011/">WATCHNIAN (ウォッチニアン) 中野2号店</a></dt>
+<dd>TEL：03-5942-5901</dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>ローン申し込み<br class="isSp"/>金額（税込）</dt>
+<dd class="goods_simulation_price">
+<input class="js_loancalc_price" id="shoppingloan-price" name="shoppingloan-price" type="text" value=" ￥3,698,200"/>円
+                                </dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>お支払い回数</dt>
+<dd class="goods_simulation_times">
+<select class="js_loancalc_times" id="shoppingloan-pay-num" name="shoppingloan-pay-num"><option value="1">1回</option><option value="2">2回</option><option value="3">3回</option><option value="6">6回</option><option value="10">10回</option><option value="12">12回</option><option value="15">15回</option><option value="18">18回</option><option value="20">20回</option><option value="24">24回</option><option value="30">30回</option><option value="36">36回</option><option value="42">42回</option><option value="48">48回</option><option value="54">54回</option><option value="60">60回</option><option value="66">66回</option><option value="72">72回</option><option value="78">78回</option><option value="84">84回</option></select>
+<button class="goods_simulation_calc js_loancalc_submit isPc" id="shoppingloan-calculation" type="button">計算</button>
+</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>金利：</dt>
+<dd><span class="js_loancalc_rate" id="shoppingloan-rate">0</span>％</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>初回のお支払いの目安：</dt>
+<dd><span class="js_loancalc_first" id="shoppingloan-first">3,698,200</span>円</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>月々のお支払いの目安：</dt>
+<dd><span class="js_loancalc_monthly" id="shoppingloan-month">0</span>円</dd>
+</dl>]
+-------------------
+/shop/g/gik-00-0553155/
+<dd>￥947,100 (税込) *2023/09/05調査
+</dd>
+定価
+map関数
+[<dl>
+<dt>管理番号</dt>
+<dd>
+553155
+</dd>
+</dl>, <dl>
+<dt>ジャンル</dt>
+<dd>
+腕時計
+ /
+メンズ
+</dd>
+</dl>, <dl>
+<dt>ブランド</dt>
+<dd>
+ロレックス /
+ROLEX
+</dd>
+</dl>, <dl>
+<dt>モデル</dt>
+<dd>
+エクスプローラー 36
+</dd>
+</dl>, <dl>
+<dt>型番（型式番号）</dt>
+<dd>
+124270</dd>
+</dl>, <dl>
+<dt>定価</dt>
+<dd>￥947,100 (税込) *2023/09/05調査
+</dd>
+</dl>, <dl>
+<dt>シリアル</dt>
+<dd>
+ランダムシリアル
+</dd>
+</dl>, <dl>
+<dt>ムーブメント</dt>
+<dd>
+自動巻き /Cal.3230</dd>
+</dl>, <dl>
+<dt>文字盤</dt>
+<dd>
+ブラック</dd>
+</dl>, <dl>
+<dt>ケース</dt>
+<dd>
+ステンレス</dd>
+</dl>, <dl>
+<dt>風防</dt>
+<dd>
+サファイアクリスタル風防
+</dd>
+</dl>, <dl>
+<dt>ベゼル</dt>
+<dd>
+ステンレス</dd>
+</dl>, <dl>
+<dt>ブレスレット</dt>
+<dd>
+オイスターブレス（ステンレス）
+</dd>
+</dl>, <dl>
+<dt>状態</dt>
+<dd>
+<dl>
+新品
+　ランク
+N
+</dl>
+</dd>
+</dl>, <dl>
+新品
+　ランク
+N
+</dl>, <dl>
+<dt>サイズ</dt>
+<dd>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約36mm　横/約36mm<br/>厚み/約11.5mm</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+19mm
+</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約19cm</td>
+</tr></tbody></table>
+</dl>
+</dd>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約36mm　横/約36mm<br/>厚み/約11.5mm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+19mm
+</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約19cm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<dt>機能</dt>
+<dd>
+防水(100ｍ)　クロマライト夜光</dd>
+</dl>, <dl>
+<dt>付属品</dt>
+<dd>
+メーカー保証書(2024年2月購入)
+　
+メーカー箱　冊子
+</dd>
+</dl>, <dl>
+<dt>時計の当社保証</dt>
+<dd>
+ウォッチニアン会員 5年<br/>ウォッチニアン非会員 3年
+<br/>無料会員登録で時計の保証が延長！<br/>保証の詳細は<a href="https://watchnian.com/shop/pages/warranty.aspx" target="_blank">ご利用ガイド</a>をご覧ください。
+</dd>
+</dl>, <dl>
+<dt><a href="https://watchnian.com/shop/store/o026004/">WATCHNIAN (ウォッチニアン) 心斎橋店</a></dt>
+<dd>TEL：06-6786-8596</dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>ローン申し込み<br class="isSp"/>金額（税込）</dt>
+<dd class="goods_simulation_price">
+<input class="js_loancalc_price" id="shoppingloan-price" name="shoppingloan-price" type="text" value=" ￥1,427,800"/>円
+                                </dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>お支払い回数</dt>
+<dd class="goods_simulation_times">
+<select class="js_loancalc_times" id="shoppingloan-pay-num" name="shoppingloan-pay-num"><option value="1">1回</option><option value="2">2回</option><option value="3">3回</option><option value="6">6回</option><option value="10">10回</option><option value="12">12回</option><option value="15">15回</option><option value="18">18回</option><option value="20">20回</option><option value="24">24回</option><option value="30">30回</option><option value="36">36回</option><option value="42">42回</option><option value="48">48回</option><option value="54">54回</option><option value="60">60回</option><option value="66">66回</option><option value="72">72回</option><option value="78">78回</option><option value="84">84回</option></select>
+<button class="goods_simulation_calc js_loancalc_submit isPc" id="shoppingloan-calculation" type="button">計算</button>
+</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>金利：</dt>
+<dd><span class="js_loancalc_rate" id="shoppingloan-rate">0</span>％</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>初回のお支払いの目安：</dt>
+<dd><span class="js_loancalc_first" id="shoppingloan-first">1,427,800</span>円</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>月々のお支払いの目安：</dt>
+<dd><span class="js_loancalc_monthly" id="shoppingloan-month">0</span>円</dd>
+</dl>]
+-------------------
+/shop/g/gik-00-0553154/
+<dd>￥1,729,200 (税込) *2023/09/05調査
+</dd>
+定価
+map関数
+[<dl>
+<dt>管理番号</dt>
+<dd>
+553154
+</dd>
+</dl>, <dl>
+<dt>ジャンル</dt>
+<dd>
+腕時計
+ /
+メンズ
+</dd>
+</dl>, <dl>
+<dt>ブランド</dt>
+<dd>
+ロレックス /
+ROLEX
+</dd>
+</dl>, <dl>
+<dt>モデル</dt>
+<dd>
+シードゥエラー
+</dd>
+</dl>, <dl>
+<dt>型番（型式番号）</dt>
+<dd>
+126600</dd>
+</dl>, <dl>
+<dt>定価</dt>
+<dd>￥1,729,200 (税込) *2023/09/05調査
+</dd>
+</dl>, <dl>
+<dt>シリアル</dt>
+<dd>
+ランダムシリアル
+</dd>
+</dl>, <dl>
+<dt>ムーブメント</dt>
+<dd>
+自動巻き /Cal.3235</dd>
+</dl>, <dl>
+<dt>文字盤</dt>
+<dd>
+ブラック</dd>
+</dl>, <dl>
+<dt>ケース</dt>
+<dd>
+ステンレス</dd>
+</dl>, <dl>
+<dt>風防</dt>
+<dd>
+サファイアクリスタル風防
+</dd>
+</dl>, <dl>
+<dt>ベゼル</dt>
+<dd>
+ステンレス /セラミック /ブラック</dd>
+</dl>, <dl>
+<dt>ブレスレット</dt>
+<dd>
+オイスターブレス（ステンレス）
+</dd>
+</dl>, <dl>
+<dt>状態</dt>
+<dd>
+<dl>
+新品
+　ランク
+N
+</dl>
+</dd>
+</dl>, <dl>
+新品
+　ランク
+N
+</dl>, <dl>
+<dt>サイズ</dt>
+<dd>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約43mm　横/約43mm<br/>厚み/約15.2mm</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+22mm
+</td>
+</tr></tbody></table>
+</dl>
+<dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約21cm</td>
+</tr></tbody></table>
+</dl>
+</dd>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ケース</td>
+<td width="289">
+縦/約43mm　横/約43mm<br/>厚み/約15.2mm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">ラグ幅</td>
+<td width="289">
+22mm
+</td>
+</tr></tbody></table>
+</dl>, <dl>
+<table border="0" class="tableReset ippuuTable">
+<tbody><tr><td width="70">腕周り</td>
+<td width="289">約21cm</td>
+</tr></tbody></table>
+</dl>, <dl>
+<dt>機能</dt>
+<dd>
+防水(1220ｍ)　クロマライト夜光　デイト表示　逆回転防止ベゼル　ヘリウムエスケープバルブ</dd>
+</dl>, <dl>
+<dt>付属品</dt>
+<dd>
+メーカー保証書(2024年2月購入)
+　
+メーカー箱　冊子
+</dd>
+</dl>, <dl>
+<dt>時計の当社保証</dt>
+<dd>
+ウォッチニアン会員 5年<br/>ウォッチニアン非会員 3年
+<br/>無料会員登録で時計の保証が延長！<br/>保証の詳細は<a href="https://watchnian.com/shop/pages/warranty.aspx" target="_blank">ご利用ガイド</a>をご覧ください。
+</dd>
+</dl>, <dl>
+<dt><a href="https://watchnian.com/shop/store/o026010/">WATCHNIAN (ウォッチニアン) 銀座本店</a></dt>
+<dd>TEL：03-6281-4722</dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>ローン申し込み<br class="isSp"/>金額（税込）</dt>
+<dd class="goods_simulation_price">
+<input class="js_loancalc_price" id="shoppingloan-price" name="shoppingloan-price" type="text" value=" ￥2,197,800"/>円
+                                </dd>
+</dl>, <dl class="goods_simulation_inputs_item">
+<dt>お支払い回数</dt>
+<dd class="goods_simulation_times">
+<select class="js_loancalc_times" id="shoppingloan-pay-num" name="shoppingloan-pay-num"><option value="1">1回</option><option value="2">2回</option><option value="3">3回</option><option value="6">6回</option><option value="10">10回</option><option value="12">12回</option><option value="15">15回</option><option value="18">18回</option><option value="20">20回</option><option value="24">24回</option><option value="30">30回</option><option value="36">36回</option><option value="42">42回</option><option value="48">48回</option><option value="54">54回</option><option value="60">60回</option><option value="66">66回</option><option value="72">72回</option><option value="78">78回</option><option value="84">84回</option></select>
+<button class="goods_simulation_calc js_loancalc_submit isPc" id="shoppingloan-calculation" type="button">計算</button>
+</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>金利：</dt>
+<dd><span class="js_loancalc_rate" id="shoppingloan-rate">0</span>％</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>初回のお支払いの目安：</dt>
+<dd><span class="js_loancalc_first" id="shoppingloan-first">2,197,800</span>円</dd>
+</dl>, <dl class="goods_simulation_results_item">
+<dt>月々のお支払いの目安：</dt>
+<dd><span class="js_loancalc_monthly" id="shoppingloan-month">0</span>円</dd>
+</dl>]
